@@ -22,4 +22,4 @@ window.onload = function() {
 
 }
 
-function movePlayer(e)
+// function movePlayer(e)
